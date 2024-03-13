@@ -6,9 +6,10 @@
 
 # Mark All As Read 
 
-![image](https://github.com/humraz/NotificationsBanner-Frontend/assets/13130006/89611369-3faf-40af-b712-d816dcadb243)
+![image](https://github.com/humraz/NotificationsBanner-Frontend/assets/13130006/24704a47-0a41-4111-8ca0-f344c2979da2)
 
 
 # Click Individual Notifications
 
-![Uploading image.png…]()
+![image](https://github.com/humraz/NotificationsBanner-Frontend/assets/13130006/d3e79125-f2e1-425c-86e5-ef0eb381e241)
+
